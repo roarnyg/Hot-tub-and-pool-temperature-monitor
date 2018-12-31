@@ -1,4 +1,4 @@
-# hot-tub-and-pool-temperature-monitor
+# hot-tub-monitor
 Micropython and MQTT
 
 Equipment:
