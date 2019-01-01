@@ -1,4 +1,4 @@
-# hot-tub-and-pool-monitor
+# hot tub and pool temperature monitor
 
 Make our own, online temperatur monitor. 
 
