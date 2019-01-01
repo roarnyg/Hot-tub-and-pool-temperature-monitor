@@ -1,12 +1,12 @@
 # hot tub and pool temperature monitor
 
-Make our own, online temperatur monitor. 
+## Make our own, online temperatur monitor. 
 
 With the power of Micropython it is easy to measure temperature in your hot tub, swimming pool, living room, garden house etc. The temperature is transfered with MQTT protocol to Adafruit.io. You can monitor the temperature on Adafruits web page for free. Of course, you can use any other MQTT broker if you like.
 
 ![Circuit board with ESP8266 and resistor](https://raw.githubusercontent.com/roarnyg/hot-tub-and-pool-temperature-monitor/master/Circuit%20board.jpg)
 
-Equipment:
+## Equipment:
 * Microcontroller: ESP8266 (NodeMCU, WeMos etc.)
 * Temperature sensor: DS18B20
 * Solderless breadboard and cables or curcuit board
